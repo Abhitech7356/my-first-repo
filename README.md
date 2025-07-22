@@ -1,3 +1,3 @@
-My-first-repo
+demo-repo
 <br>
 Author-Abhinav
